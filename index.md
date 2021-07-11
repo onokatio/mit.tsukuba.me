@@ -24,7 +24,7 @@ KdBを代替するサービスです。高速な検索や、お気に入り機�
 
 ## お知らせ
 
-`<a class="twitter-timeline" data-lang="ja" data-width="400" data-height="600" data-dnt="true" href="https://twitter.com/MakeITTSUKUBA?ref_src=twsrc%5Etfw">Tweets by MakeITTSUKUBA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+<a class="twitter-timeline" data-lang="ja" data-width="400" data-height="600" data-dnt="true" href="https://twitter.com/MakeITTSUKUBA?ref_src=twsrc%5Etfw">Tweets by MakeITTSUKUBA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## メンバー
 
