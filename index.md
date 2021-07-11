@@ -7,9 +7,9 @@ KdBを代替するサービスです。高速な検索や、お気に入り機�
 
 [![](https://i.imgur.com/IYkWCJf.png)](https://i.imgur.com/IYkWCJf.png)
 
-- Alternative KdB: [https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/)
-- GitHub リポジトリ: [https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb)
-<!-- ニュースサイトで取り上げられたやつとかリンクしておくと良いかも -->
+- Alternative KdB: <a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/</a>
+- GitHub リポジトリ: <a href="https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb</a>
+- ネットニュースで紹介されました: <a href="https://news.yahoo.co.jp/articles/5d85475cff6b4e2a7b19bed6d822b2f26ad1235a" target="_blank" rel="noopener">リンクはこちら</a>
 
 ### 移行判定要件ツール（？）
 ### アヒルボート
@@ -44,7 +44,7 @@ KdBを代替するサービスです。高速な検索や、お気に入り機�
 ## 連絡先
 
 - サークルのツイッターアカウント
-    - [@MakeITTSUKUBA](https://twitter.com/MakeITTSUKUBA)
+    - <a href="https://twitter.com/MakeITTSUKUBA" target="_blank" rel="noopener">@MakeITTSUKUBA</a>
 - 代表および責任者のメールアドレス
     - 代表: [s2111951@coins.tsukuba.ac.jp](mailto:s2111951@coins.tsukuba.ac.jp)
 
