@@ -5,7 +5,7 @@
 ### KdBもどき
 KdBを代替するサービスです。高速な検索や、お気に入り機能、履修の仮組みなどの機能があります。
 
-[![](https://i.imgur.com/IYkWCJf.png)](https://i.imgur.com/IYkWCJf.png)
+<a href="https://i.imgur.com/IYkWCJf.png" rel="nofollow noopener noreferrer" target="_blank"><img src="https://i.imgur.com/IYkWCJf.png" alt="スクリーンショット" /></a>
 
 - Alternative KdB: <a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/</a>
 - GitHub リポジトリ: <a href="https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb</a>
