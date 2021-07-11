@@ -9,7 +9,7 @@ KdBを代替するサービスです。高速な検索や、お気に入り機�
 
 - Alternative KdB: <a href="https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/</a>
 - GitHub リポジトリ: <a href="https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb/" target="_blank" rel="noopener">https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-kdb</a>
-<!-- ニュースサイトで取り上げられたやつとかリンクしておくと良いかも -->
+- ネットニュースで紹介されました: <a href="https://news.yahoo.co.jp/articles/5d85475cff6b4e2a7b19bed6d822b2f26ad1235a" target="_blank" rel="noopener">リンクはこちら</a>
 
 ### 移行判定要件ツール（？）
 ### アヒルボート
