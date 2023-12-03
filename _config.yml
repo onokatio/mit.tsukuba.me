@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+markdown: kramdown
+github:
+  is_project_page: no
